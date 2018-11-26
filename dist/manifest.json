@@ -1,0 +1,20 @@
+{
+  "name": "Restaurant Reviews App",
+  "short_name": "RR App",
+  "theme_color": "#790a0a",
+  "background_color": "#262932",
+  "display": "standalone",
+  "Scope": "/",
+  "start_url": "/index.html",
+  "splash_pages": null,
+  "icons":[{
+    "src": "/img/fork and knife.jpg",
+    "type": "image/jpg",
+    "sizes": "192x192"
+    },
+    {
+    "src": "/img/093_ForkKnife-512.png",
+    "type": "image/png",
+    "sizes": "512x512"
+      }]
+}
